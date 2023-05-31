@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @roitoimalfoi
+👋 Hi! I’m Alroy Chiang
 - 👀 I’m interested in becoming a better programmer!
 - 🌱 I have a brief experience with SQL, Java and C
 - Currently using python heavily for data cleaning and exploratory data analysis!
