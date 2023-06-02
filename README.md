@@ -13,7 +13,7 @@ I am a fresh graduate with a strong interest in data engineering looking for opp
 
 - 👀 I’m interested in becoming a better programmer!
 - 👨‍💻 I have a brief experience with SQL, Java, and C.
-- 🚧 I have a fair bit of experience in Python for data cleaning and data validation!
+- 🚧 I have a strong foundation in Python for data cleaning and data validation!
 - 🦕 I’m looking to collaborate on projects where I can learn and put my skills to use.
 - 📫 How to reach me at: ACHIANG004@e.ntu.edu.sg
 
