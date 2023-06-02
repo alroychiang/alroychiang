@@ -47,7 +47,7 @@ pipeline development process.
 * ### [Managing Big Data with MySQL](https://github.com/roitoimalfoi/Managing-Big-Data-with-MySQL.git)
  - Designed Entity Relationship (ER) diagrams from data relationship sentences, gained a better understanding of attributes, unique attributes, entity instances and partial keys.
  - Designed Relational Schemas from their respective ER diagrams and data relationship sentences as well. Gained a better understanding of tables, primary keys, foreign keys and many-to-many relationships
- - 
+ - Utilized SQL to extract, sort, identify data of interest from a real world dataset (Dognition database). Generate queries and sub queries using clauses such as GROUP BY, FULL JOIN, DISTINCT, HAVING etc.
 
 
 
