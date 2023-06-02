@@ -45,9 +45,9 @@ pipeline development process.
 ### Database Management Course:
 
 * ### [Managing Big Data with MySQL](https://github.com/roitoimalfoi/Managing-Big-Data-with-MySQL.git)
-  - Designed Entity Relationship (ER) diagrams from data relationship sentences, gained a better understanding of attributes, unique attributes, entity instances and partial keys.
-  - Designed Relational Schemas from their respective ER diagrams and data relationship sentences as well. Gained a better understanding of tables, primary keys, foreign keys and many-to-many relationships
-  - 
+ - Designed Entity Relationship (ER) diagrams from data relationship sentences, gained a better understanding of attributes, unique attributes, entity instances and partial keys.
+ - Designed Relational Schemas from their respective ER diagrams and data relationship sentences as well. Gained a better understanding of tables, primary keys, foreign keys and many-to-many relationships
+ - 
 
 
 
