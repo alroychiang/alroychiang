@@ -13,26 +13,25 @@ I am a fresh graduate with a strong interest in data engineering looking for opp
 
 - 👀 I’m interested in becoming a better programmer!
 - 👨‍💻 I have a brief experience with SQL, Java, and C.
-- 🚧 Currently using Python heavily for data cleaning and exploratory data analysis!
+- 🚧 I have a fair bit of experience in Python for data cleaning and data validation!
 - 🦕 I’m looking to collaborate on projects where I can learn and put my skills to use.
 - 📫 How to reach me at: ACHIANG004@e.ntu.edu.sg
 
-### Experience wih tools such as:
+### Tools:
 * **Database Management:** SQL
 *  **Audio Pre-Processing:** Python, Jupyter Labs, soundfile, noisereduce, cv2, converter, pydub, youtube_dl, numpy, pandas, shutil, subprocess, openpyxyl, moviepy, tqdm, converter, ffmpeg
 *  **Data Visualization:** VS Code, Python, Seaborn, Matplotlib
 *  **Data Cleaning:** VS Code, Python, numpy, pandas, json, os, glob, csv, shutil, re, sys, datetime
 
-<br/><br/>
-
-## Data Processing Projects
+### Data Processing Projects:
 * ### [Audio Processing](https://github.com/roitoimalfoi/SNTL-Intern.git)
-  (text)
+  
 * ### [Data Pre-Processing](https://github.com/roitoimalfoi/data-pre-processing-pipline.git)
   (text)
 
-## Database Management Course
+### Database Management Course:
 * ### [Managing Big Data with MySQL](https://github.com/roitoimalfoi/Managing-Big-Data-with-MySQL.git)
+  (text)
 
 
 
