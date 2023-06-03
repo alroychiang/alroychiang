@@ -23,7 +23,7 @@ I am a fresh graduate with a strong interest in data engineering looking for opp
 *  **Data Visualization:** VS Code, Python, Seaborn, Matplotlib
 *  **Data Cleaning:** VS Code, Python, numpy, pandas, json, os, glob, csv, shutil, re, sys, datetime
 
-### Data Processing Projects:
+### Projects:
 
 * ### [Audio Processing](https://github.com/roitoimalfoi/SNTL-Intern.git)
  - Conducted video processing using Python, JupyterLabs & Audacity to automate the conversion of audio
@@ -41,6 +41,11 @@ publication.
 perform data aggregation, execute time gap analysis and construct a data catalogue.
  - Maintained and produced user, design and test procedure documentations to establish and maintain the
 pipeline development process.
+
+* ### [Data Validation](https://github.com/alroychiang/data-validation)
+ - Applied matplotlib library to conduct Data Validation on historical energy data, successfully identifying
+data dropouts and permanent step changes in our data collection system.
+ - Deployed matplotlib library to conduct Correlation Analysis on time series data.
 
 ### Database Management Course:
 
