@@ -9,7 +9,7 @@
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alroy-chiang-329ba117b/)&nbsp;&nbsp;
 </div>
   
-I am a fresh graduate with a strong interest in data engineering looking for opportunities to apply my knowledge and skills in a professional setting! I have worked with companies such as EDP Renewables and Smart Nation Translational Laboratories to aid in audio processing and data cleaning projects which will be described in more detail below.
+I am a fresh graduate with a strong interest in coding looking for opportunities to apply my knowledge and skills in a professional setting! I have worked with companies such as EDP Renewables and Smart Nation Translational Laboratories to aid in audio processing and data cleaning projects which will be described in more detail below.
 
 - 👀 I’m interested in becoming a better programmer!
 - 👨‍💻 I have a brief experience with SQL, Java, and C.
