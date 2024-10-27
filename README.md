@@ -11,8 +11,8 @@
   
 I am currently working as a Research Engineer with SNK Games Singpore!
 
-- 🚧 I have a strong foundation in Python for data cleaning and data validation!
 - 🦕 Experience with Blueprints Visual Scripting, Python, C++, SQL
+- 🚧 I have a strong foundation in Python for data cleaning and data validation!
 - 📫 How to reach me at: alroychiang@gmail.com
 
 ### Tools:
