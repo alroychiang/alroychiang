@@ -11,9 +11,6 @@
   
 I am currently working as a Research Engineer with SNK Games Singpore!
 
-- 👀 Experimented with tensorflow API with Unreal Engine, simulating object rotation physics with neural networks such as Multilayer Perceptron and ResNet
-- 👨‍💻 Developed several Python Scripts to automate data conversion from Euler Angles to Quartenions, Two Basis Vectors and  Angle Axis representations
-- 🐣 Developed 2 Internal testing tools integrating Unreal Engine with Razor Haptics API and their products 
 - 🚧 I have a strong foundation in Python for data cleaning and data validation!
 - 🦕 Experience with Blueprints Visual Scripting, Python, C++, SQL
 - 📫 How to reach me at: alroychiang@gmail.com
@@ -25,6 +22,11 @@ I am currently working as a Research Engineer with SNK Games Singpore!
 *  **Data Cleaning:** VS Code, Python, numpy, pandas, json, os, glob, csv, shutil, re, sys, datetime
 
 ### Projects:
+
+* ### [Unreal Engine Machine Learning]( Input_Repository_Link_Here)
+- Experimented with tensorflow API with Unreal Engine, simulating object rotation physics with neural networks such as Multilayer Perceptron and ResNet
+- Developed 2 Internal testing tools integrating Unreal Engine with Razor Haptics API and their products
+- Developed several Python Scripts to automate data conversion from Euler Angles to Quartenions, Two Basis Vectors and  Angle Axis representations
 
 * ### [Audio Processing](https://github.com/roitoimalfoi/SNTL-Intern.git)
  - Conducted video processing using Python, JupyterLabs & Audacity to automate the conversion of audio
