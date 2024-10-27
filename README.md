@@ -16,6 +16,7 @@ I am currently working as a Research Engineer with SNK Games Singpore!
 - 📫 How to reach me at: alroychiang@gmail.com
 
 ### Tools:
+*  **Version Control:** GitBash, SourceTree
 *  **Database Management:** SQL, MySQL
 *  **Audio Pre-Processing:** Python, Jupyter Labs, soundfile, noisereduce, cv2, converter, pydub, youtube_dl, numpy, pandas, shutil, subprocess, openpyxyl, moviepy, tqdm, converter, ffmpeg
 *  **Data Visualization:** VS Code, Python, Seaborn, Matplotlib
