@@ -14,6 +14,7 @@ I am currently working as a Research Engineer with SNK Games Singpore!
 - 🦕 Experience with Blueprints Visual Scripting, Python, C++, SQL
 - 🚧 I have a strong foundation in Python for data cleaning, data validation and data analysis! Also a strong foundation in Blueprint scripting & UE's C++ to create Unreal Engine games!
 - 👖 I have brief stint with Houdini 3D procedural software, creating rigid body simulations!
+- 🔅 Created 2 Unreal Engine tools encompassing all Haptic Effect possibilities with Razer's Haptic devices: Razor Ultra Kishi Controller, Razor Freyja Cushion, Razor Kraken Headphones
 - 📫 How to reach me at: alroychiang@gmail.com
 
 ### Tools:
@@ -26,7 +27,8 @@ I am currently working as a Research Engineer with SNK Games Singpore!
 ### Projects:
 
 * ### [Unreal Engine Machine Learning]( Input_Repository_Link_Here)
-- Experimented with tensorflow API with Unreal Engine, simulating object rotation physics with neural networks such as Multilayer Perceptron and ResNet
+- Experimented with tensorflow API with Unreal Engine, simulating object rotation physics with neural networks such as Multilayer Perceptron and ResNet.
+- Fine tuning model performance using data analysis: Plotting Weights & Bias convergence, Loss convergence, Normalization, Forward Pass validation and Unit Testing.
 - Developed 2 Internal testing tools integrating Unreal Engine with Razor Haptics API and their products
 - Developed several Python Scripts to automate data conversion from Euler Angles to Quartenions, Two Basis Vectors and  Angle Axis representations
 
