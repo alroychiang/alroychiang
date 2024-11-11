@@ -12,14 +12,15 @@
 I am currently working as a Research Engineer with SNK Games Singpore!
 
 - 🦕 Experience with Blueprints Visual Scripting, Python, C++, SQL
-- 🚧 I have a strong foundation in Python for data cleaning and data validation!
+- 🚧 I have a strong foundation in Python for data cleaning, data validation and data analysis! Also a strong foundation in Blueprint scripting & UE's C++ to create Unreal Engine games!
+- 👖 I have brief stint with Houdini 3D procedural software, creating rigid body simulations!
 - 📫 How to reach me at: alroychiang@gmail.com
 
 ### Tools:
 *  **Version Control:** GitBash, SourceTree
 *  **Database Management:** SQL, MySQL
 *  **Audio Pre-Processing:** Python, Jupyter Labs, soundfile, noisereduce, cv2, converter, pydub, youtube_dl, numpy, pandas, shutil, subprocess, openpyxyl, moviepy, tqdm, converter, ffmpeg
-*  **Data Visualization:** VS Code, Python, Seaborn, Matplotlib
+*  **Data Visualization:** Python, Seaborn, Matplotlib
 *  **Data Cleaning:** VS Code, Python, numpy, pandas, json, os, glob, csv, shutil, re, sys, datetime
 
 ### Projects:
